@@ -1,0 +1,30 @@
+.btn.btn-success{
+	width:84px;
+}
+.baby-name,
+.baby-nb-player {
+    width: 70px;
+}
+
+.baby-wraper {
+    margin: 50px auto;
+    width: 150px;
+    text-align: center;
+    position: relative;
+}
+.btn-group{
+    margin: 10px auto;
+    width: 107px;
+}
+
+table.table{
+	width:auto;
+	margin: 0 auto;
+	display:none;
+}
+
+a.tooltipp{
+    position: absolute;
+    right: -10px;
+    top: 5px;
+}
